@@ -25,6 +25,7 @@ I enjoy building dashboards, analyzing performance trends, and telling stories t
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
 
 ### Featured Projects
 
